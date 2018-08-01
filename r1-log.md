@@ -1,10 +1,10 @@
 # #100DaysOfCode Log - Round 1 - [Your Name Here]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [July 31, Tuesday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Started a Krasa Zulebion website where I will be using Grid, Gulp, Jekyll, Bem. last update: https://github.com/ventosae/krasasalon/tree/master/_app 
 
-### R1D2
+
