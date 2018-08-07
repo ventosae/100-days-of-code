@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Anton Surov]
 
 The log of my #100DaysOfCode challenge. Started on [July 31, Tuesday, 2018].
 
@@ -24,3 +24,6 @@ R1D6 I've finished the mobile slider. At first I made it with pure CSS bit then 
 
 ### R1D7
 R1D7 The mobile landing page is pretty much finished. Just need to fix vertical padding, hovers and animations. Need to speed up a bit. 
+
+### R1D8
+R1D8 Today I was mostly doing exercises at Freecodecamp and went for the FCC study group meetup. Which was not easy because as per usual I felt left behind. Oh well, nothing new here. Just keep doing what I planned
