@@ -18,3 +18,9 @@ R1D4 It was Friday and a lot got a bit intoxicated anywhow I was wroking on a mo
 
 ### R1D5
 R1D5 Kept working on a mobile slider - taking more time than expected. At least I will make it reusable
+
+### R1D6
+R1D6 I've finished the mobile slider. At first I made it with pure CSS bit then just remade it with flickity so much easier. 
+
+### R1D7
+R1D7 The mobile landing page is pretty much finished. Just need to fix vertical padding, hovers and animations. Need to speed up a bit. 
