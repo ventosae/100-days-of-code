@@ -27,3 +27,10 @@ R1D7 The mobile landing page is pretty much finished. Just need to fix vertical 
 
 ### R1D8
 R1D8 Today I was mostly doing exercises at Freecodecamp and went for the FCC study group meetup. Which was not easy because as per usual I felt left behind. Oh well, nothing new here. Just keep doing what I planned
+
+
+### R1D9
+R1D9 Finished another slider and managed to fix a couple of annoying bugs. Progress is a bit slow but i'm hitting this 1 hour target. 
+
+### R1D10
+R1D8 Continiue working on a mobile landing page. I WANT TO FINISH IT. 
