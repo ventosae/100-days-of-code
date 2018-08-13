@@ -39,3 +39,9 @@ R1D11 It was Friday and I have too many glasses of wine. Anyway, managed to fini
 
 ### R1D12
 R1D12 Mobile version of the mobile landing page is done! Looks nice and next step is to remake it for tablet and desktop. 
+
+### R1D13
+R1D12 Was quite sunday coding - 3 hours went so fast. 
+
+### R1D14
+R1D14 Finished the table header - that was bit difficult. But once I'm done with a home page it will be easy to finish the whole website. 
