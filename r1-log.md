@@ -45,3 +45,10 @@ R1D12 Was quite sunday coding - 3 hours went so fast.
 
 ### R1D14
 R1D14 Finished the table header - that was bit difficult. But once I'm done with a home page it will be easy to finish the whole website. 
+
+### R1D15
+R1D15 Weeks are much busier then usual so I spent only one hour workin on tablet adaptation
+
+### R1D16
+R1D16 Was coding at work and manage to make sliders adaptation with CSSWATCH. 
+
