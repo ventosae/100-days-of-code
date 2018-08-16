@@ -52,3 +52,5 @@ R1D15 Weeks are much busier then usual so I spent only one hour workin on tablet
 ### R1D16
 R1D16 Was coding at work and manage to make sliders adaptation with CSSWATCH. 
 
+### R1D17
+R1D17 Continiue working on the landing page. Pretty much finished it. 
