@@ -54,3 +54,12 @@ R1D16 Was coding at work and manage to make sliders adaptation with CSSWATCH.
 
 ### R1D17
 R1D17 Continiue working on the landing page. Pretty much finished it. 
+
+### R1D18
+R1D18 It was Friday and it was difficult but I spent one hour polishing off the tablet version. 
+
+### R1D19
+R1D18 Was a busy day but another two hours spent on the pafe. 
+
+### R1D20
+R1D18 Great, landing page is finished now I'll slised it and build other pages with pretty much similar elements. 
