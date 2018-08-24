@@ -66,3 +66,12 @@ R1D20 Great, landing page is finished now I'll slised it and build other pages w
 
 ### R1D21
 R1D21 Was sepent an hour working on the sturcture for other pages. 
+
+### R1D22
+R1D21 MISSED DUE TO HARD LIFE
+
+### R1D23
+R1D21 Was sepent an hour working on the sturcture for more pages.
+
+### R1D24
+R1D21 BOOM my first JavaScript corse from the HTML Academy. Excited! Spent an hour doing exercies'
